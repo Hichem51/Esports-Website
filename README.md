@@ -4,7 +4,7 @@ Nexus Rift is a premium dark-themed React + Tailwind CSS v3 website focused on t
 
 ## Features
 
-- React + TavaScript project
+- React + TypeScript project
 - Tailwind CSS v3 styling
 - React Router multi-page navigation
 - Active navbar with `Link`, `NavLink`, and `useNavigate`
